@@ -8,3 +8,5 @@ This downloader currently allows you to load every (encrypted) firmware to every
 **To prevent damage, no executable files shall be uploaded.**
 
 You could also modify the firmware and flash your own versions with it.
+
+If a brick happens, you can unbrick your charger by flashing the correct firmware with the Uploader or use the "Firmware Share" function from another identical (and working) device.
